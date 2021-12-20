@@ -1,14 +1,12 @@
-feffflfkllf
-fnff
-fnv
+git branch
+git status
+git checkout master
+git init 
+git add .
+git commit -m"text"
+git push origin master
+git remote add origin "http link" 
+git stash 
+git pull
+git revert "commit id"
 
-nknimff
-rfrefefdeff
-rf
-gb
-h
-ij
-hhgggggggg
-akkksdfjifsiodsidknsdkdf
-(git ccommit)
-stash files are uploading at a time of risk management
