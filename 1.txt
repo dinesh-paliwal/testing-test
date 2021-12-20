@@ -5,3 +5,5 @@ h
 ij
 hhgggggggg
 akkksdfjifsiodsidknsdkdf
+(git ccommit)
+stash files are uploading at a time of risk management
