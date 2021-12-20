@@ -9,4 +9,6 @@ git remote add origin "http link"
 git stash 
 git pull
 git revert "commit id"
-git all
+git stash pop
+git diff
+git log
