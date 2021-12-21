@@ -1,4 +1,4 @@
-git branch
+≈git branch
 git status
 git checkout master
 git init 
@@ -13,7 +13,7 @@ git stash pop
 git diff
 git log
 /.,/,/,/,/,/,/,/.,/,/.,/.,/,.//.././././././././''/'/'/''/////./././././/.././././/..[\][//[.\/].[/.\]/[.\/][].\/[./\/]/]\/\/\/\/\/\/\/\/\/\/\\//\/\\/\/\/\/\/\/\/\//\/
-
+sdbchsdbcsdbcbsjbjbdjbjhbjsbhjbsdjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjdsjhh
 [linux command]
 ls
 pwd
@@ -36,4 +36,4 @@ vi
 :wq
 ctrl+a
 ctrl+w
-
+end of command
