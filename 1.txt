@@ -12,3 +12,28 @@ git revert "commit id"
 git stash pop
 git diff
 git log
+/.,/,/,/,/,/,/,/.,/,/.,/.,/,.//.././././././././''/'/'/''/////./././././/.././././/..[\][//[.\/].[/.\]/[.\/][].\/[./\/]/]\/\/\/\/\/\/\/\/\/\/\\//\/\\/\/\/\/\/\/\/\//\/
+
+[linux command]
+ls
+pwd
+rm
+rm -rf
+mv
+cp
+mkdir
+mkdir -p
+touch 
+nano
+cat
+ctrl+shift+k
+ctrl+x
+ctrl+c
+ctrl+shift+_
+vi
+:q
+:w
+:wq
+ctrl+a
+ctrl+w
+
