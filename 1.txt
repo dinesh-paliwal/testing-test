@@ -19,7 +19,7 @@ rm -rf
 mv
 cp
 mkdir
-mkdir -p
+mkdir -p[make multiple directory]
 touch 
 nano
 cat
