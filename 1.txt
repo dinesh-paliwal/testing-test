@@ -19,7 +19,7 @@ rm -rf
 mv
 cp
 mkdir
-mkdir -p
+mkdir -p[make multiple parent child directory]
 touch 
 nano
 cat
