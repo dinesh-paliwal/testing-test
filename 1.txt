@@ -1,4 +1,4 @@
-git branch
+≈git branch
 git status
 git checkout master
 git init (its good to do initialization)
@@ -10,10 +10,7 @@ git stash
 git pull
 git revert "commit id"
 git stash pop
-git diff
-git log
-/.,/,/,/,/,/,/,/.,/,/.,/.,/,.//.././././././././''/'/'/''/////./././././/.././././/..[\][//[.\/].[/.\]/[.\/][].\/[./\/]/]\/\/\/\/\/\/\/\/\/\/\\//\/\\/\/\/\/\/\/\/\//\/
-
+git diff//././/.sdbchsdbcsdbcbsjbjbdjbjhbjsbhjbsdjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjdsjhh
 [linux command]
 ls
 pwd
@@ -36,4 +33,5 @@ vi
 :wq
 ctrl+a
 ctrl+w
-akki/.///,/,/.,/,/,/,//,/,/,/.,/,/,/.,/,/,/,/,/,//,///.././././.,/,/,/,/,/,/./,/,/,/,/.,/,/,/,//,//./,/,/,/,/,//\\\/\/\/\/\/\/\/\/\//\/\/\/\/\\\/\/\\/
+end of command
+//\\\/\/\\//\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\\/\/\/\/\/\//'/''/''/''''/'/'//''/'][[]][][][][]][]][]]]][\/\\/\/\\/\//\//\]][][[]][[[]][]
